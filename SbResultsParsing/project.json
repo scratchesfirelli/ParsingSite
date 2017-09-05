@@ -1,4 +1,7 @@
 ﻿{
+  "frameworks": {
+    "dnxcore50": {}
+  },
   "Logging": {
     "IncludeScopes": false,
     "LogLevel": {
